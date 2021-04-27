@@ -1,0 +1,14 @@
+.sidebar {
+    position: fixed;
+    top: 65px;
+    grid-area: sidebar;
+    justify-content: center;
+}
+
+.category {
+    position: relative;
+    font-size: 1.1rem;
+    margin: 25px 0px 25px 75px;
+    color: rgb(94, 94, 94);
+    cursor: pointer;
+}
