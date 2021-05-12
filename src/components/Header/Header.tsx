@@ -18,7 +18,7 @@ const Header = () => {
     return (
         <div className = {styles.header} onClick = {() => handleClick()}>
             <i className = {styles.icon}><BiNews size = '1.6rem'/></i>
-            <h3 className = {styles.title}>News App</h3>
+            <h3 className = {styles.title}>News app</h3>
         </div>
     )
 }
